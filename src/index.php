@@ -80,21 +80,6 @@
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 
-
-				
-					
-                 <div class="product_list_header">
-                    <form action="#" method="post" class="last">
-                        <fieldset>
-                            <input type="hidden" name="cmd" value="_cart" />
-                            <input type="hidden" name="display" value="1" />
-                            <button type="submit" class="btn btn-warning btn-sm">
-                                 <span class="price" style="color:black">View Your Cart <i class="fa fa-shopping-cart"></i></span>
-                            </button>
-                        </fieldset>
-                    </form>
-                </div>
-				
 					<ul class="nav navbar-nav menu_nav ml-auto">
 
 
@@ -137,6 +122,18 @@
 
 					</ul>
 				</div>
+
+             <div class="product_list_header">
+                <form action="#" method="post" class="last">
+                    <fieldset>
+                        <input type="hidden" name="cmd" value="_cart" />
+                        <input type="hidden" name="display" value="1" />
+                        <button type="submit" class="btn btn-warning btn-sm">
+                             <span class="price" style="color:black">View Your Cart <i class="fa fa-shopping-cart"></i></span>
+                        </button>
+                    </fieldset>
+                </form>
+            </div>
 
 
 			</nav>
@@ -1217,7 +1214,7 @@
 
 
 
-   
+
         <!--================ Facilities Area  =================-->
         <section class="facilities_area section_gap" style="background: url(image/background/facilites_bg1.jpg)no-repeat fixed; border:none">
             <div class="overlay bg-parallax" data-stellar-ratio="0.8" data-stellar-vertical-offset="0" data-background="">
