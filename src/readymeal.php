@@ -10,28 +10,10 @@
 	<!-- Bootstrap CSS -->
 
 
-	<!-- <link rel="stylesheet" href="css/style.css"> -->
-	<link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
-	<link rel="stylesheet" href="css/animate.css">
-
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/owl.theme.default.min.css">
-	<link rel="stylesheet" href="css/magnific-popup.css">
-
-	<link rel="stylesheet" href="css/aos.css">
-	<link rel="stylesheet" href="css/ionicons.min.css">
-
 	<link rel="stylesheet" href="css/bootstrap-datepicker.css">
 	<link rel="stylesheet" href="css/jquery.timepicker.css">
-
-
-	<link rel="stylesheet" href="css/flaticon.css">
-	<link rel="stylesheet" href="css/icomoon.css">
-
-
 	<link rel="stylesheet" href="vendors/linericon/style.css">
 	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
 	<link rel="stylesheet" href="vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.css">
 	<link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
 	<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
@@ -39,39 +21,29 @@
 	<link rel="stylesheet" href="css/slick.css">
 	<link rel="stylesheet" href="css/slick-theme.css">
 	<link rel="shortcut icon" type="image/x-icon" href="image/favicon.png">
-
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Nothing+You+Could+Do" rel="stylesheet">
-
 	<link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
 	<link rel="stylesheet" href="css/animate.css">
-
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
 	<link rel="stylesheet" href="css/magnific-popup.css">
-
 	<link rel="stylesheet" href="css/aos.css">
-
 	<link rel="stylesheet" href="css/ionicons.min.css">
-
 	<link rel="stylesheet" href="css/bootstrap-datepicker.css">
 	<link rel="stylesheet" href="css/jquery.timepicker.css">
-
-
 	<link rel="stylesheet" href="css/flaticon.css">
 	<link rel="stylesheet" href="css/icomoon.css">
 
-	<!-- main css -->
-	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="css/style1.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
 
 	<link rel="stylesheet" href="css/pizza.css">
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/responsive.css">
-	<link rel="stylesheet" href="css/mycss.css">
 	<link rel="stylesheet" href="css/order.css">
-
+    <link rel="stylesheet" href="css/mycss.css">
+    <link rel="stylesheet" href="css/style1.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
 
 
 
@@ -92,16 +64,27 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<!-- Collect the nav links, forms, and other content for toggling -->
+
+
 				<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+
+                    <!-- <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+                    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+                    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p> -->
+
+                    <div style="float: right; cursor: pointer;">
+                       <span class=" my-cart-icon fa fa-shopping-cart" style="color:black">
+                           <span class="badge badge-notify my-cart-badge"></span>
+                       </span>
+                     </div>
+
 					<ul class="nav navbar-nav menu_nav ml-auto">
 						<li class="nav-item "><a class="nav-link" href="index.php">Home</a></li>
 
 						<li class="nav-item submenu dropdown">
 							<span   class="active nav-link dropdown-toggle" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false" >Order</span>
 							<ul class="dropdown-menu">
-								<!-- <li class="nav-item"><a class="nav-link" href="order.php" >Order</a></li> -->
-								<li class="nav-item"><a class="nav-link" href="readymeal.php">Ready Meals</a></li>
+								<li class="active nav-item"><a class="active nav-link" href="readymeal.php">Ready Meals</a></li>
 								<li class="nav-item"><a class="nav-link" href="foodrecipe.php">Food Recipe</a></li>
 								<li class="nav-item"><a class="nav-link" href="ingredient.php">Ingredients</a></li>
 								<li class="nav-item"><a class="nav-link" href="ingredient.php">Restaurent</a></li>
@@ -129,8 +112,6 @@
 							</ul>
 						</li>
 
-
-						<!-- <li class="nav-item"><a class="nav-link" href="#">About us</a></li> -->
 
 					</ul>
 				</div>
@@ -312,27 +293,30 @@
                             <div class="row no-gutters d-flex">
                                 <div class="col-lg-4 d-flex ftco-animate">
                                     <div class="services-wrap d-flex">
-                                        <a href="#" class="img" style="background-image: url(image/pizza-1.jpg);"></a>
+                                        <a  class="img" style="background-image: url(image/pizza-1.jpg);"></a>
                                         <div class="text p-4">
                                             <h3>Italian Pizza</h3>
                                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
                                             <p class="price"><span>$2.90 </span>
-                                                <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="1" data-name="Italian Pizza" data-summary="Italian Pizza" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-1.jpg" style="color:black">Add
                                                 </button>
+
                                             </p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 d-flex ftco-animate">
                                     <div class="services-wrap d-flex">
-                                        <a href="#" class="img" style="background-image: url(image/pizza-2.jpg);"></a>
+                                        <a  class="img" style="background-image: url(image/pizza-2.jpg);"></a>
                                         <div class="text p-4">
                                             <h3>Greek Pizza</h3>
                                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
                                             <p class="price"><span>$2.90 </span>
-                                                <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="2" data-name="Greek Pizza" data-summary="Greek Pizza" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-2.jpg" style="color:black">Add
                                                 </button>
                                             </p>
                                         </div>
@@ -340,13 +324,14 @@
                                 </div>
                                 <div class="col-lg-4 d-flex ftco-animate">
                                     <div class="services-wrap d-flex">
-                                        <a href="#" class="img" style="background-image: url(image/pizza-3.jpg);"></a>
+                                        <a  class="img" style="background-image: url(image/pizza-3.jpg);"></a>
                                         <div class="text p-4">
                                             <h3>Caucasian Pizza</h3>
                                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
                                             <p class="price"><span>$2.90 </span>
-                                                <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="3" data-name="Caucasian Pizza" data-summary="Caucasian Pizza" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-3.jpg" style="color:black">Add
                                                 </button>
                                             </p>
                                         </div>
@@ -355,13 +340,14 @@
 
                                 <div class="col-lg-4 d-flex ftco-animate">
                                     <div class="services-wrap d-flex">
-                                        <a href="#" class="img order-lg-last" style="background-image: url(image/pizza-4.jpg);"></a>
+                                        <a  class="img order-lg-last" style="background-image: url(image/pizza-4.jpg);"></a>
                                         <div class="text p-4">
                                             <h3>American Pizza</h3>
                                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
                                             <p class="price"><span>$2.90 </span>
-                                                <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="4" data-name="American Pizza" data-summary="American Pizza" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-4.jpg" style="color:black">Add
                                                 </button>
                                             </p>
                                         </div>
@@ -369,13 +355,14 @@
                                 </div>
                                 <div class="col-lg-4 d-flex ftco-animate">
                                     <div class="services-wrap d-flex">
-                                        <a href="#" class="img order-lg-last" style="background-image: url(image/pizza-5.jpg);"></a>
+                                        <a class="img order-lg-last" style="background-image: url(image/pizza-5.jpg);"></a>
                                         <div class="text p-4">
                                             <h3>Tomatoe Pie</h3>
                                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
                                             <p class="price"><span>$2.90 </span>
-                                                <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="5" data-name="Tomatoe Pie" data-summary="Tomatoe Pie" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-5.jpg" style="color:black">Add
                                                 </button>
                                             </p>
                                         </div>
@@ -383,13 +370,14 @@
                                 </div>
                                 <div class="col-lg-4 d-flex ftco-animate">
                                     <div class="services-wrap d-flex">
-                                        <a href="#" class="img order-lg-last" style="background-image: url(image/pizza-6.jpg);"></a>
+                                        <a class="img order-lg-last" style="background-image: url(image/pizza-6.jpg);"></a>
                                         <div class="text p-4">
                                             <h3>Margherita</h3>
                                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
                                             <p class="price"><span>$2.90 </span>
-                                                <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="6" data-name="Margherita" data-summary="Margherita" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-6.jpg" style="color:black">Add
                                                 </button>
                                             </p>
                                         </div>
@@ -397,99 +385,103 @@
                                 </div>
                             </div>
                         </div>
-                                    <!-- end body -->
 
-                                    <!-- body -->
 
-                                <div class="container-wrap">
-                                    <div class="row no-gutters d-flex">
-                                        <div class="col-lg-4 d-flex ftco-animate">
-                                            <div class="services-wrap d-flex">
-                                                <a href="#" class="img" style="background-image: url(image/pizza-1.jpg);"></a>
-                                                <div class="text p-4">
-                                                    <h3>Italian Pizza</h3>
-                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
-                                                    <p class="price"><span>$2.90 </span>
-                                                        <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                             <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                        </button>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-4 d-flex ftco-animate">
-                                            <div class="services-wrap d-flex">
-                                                <a href="#" class="img" style="background-image: url(image/pizza-2.jpg);"></a>
-                                                <div class="text p-4">
-                                                    <h3>Greek Pizza</h3>
-                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                    <p class="price"><span>$2.90 </span>
-                                                        <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                             <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                        </button>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-4 d-flex ftco-animate">
-                                            <div class="services-wrap d-flex">
-                                                <a href="#" class="img" style="background-image: url(image/pizza-3.jpg);"></a>
-                                                <div class="text p-4">
-                                                    <h3>Caucasian Pizza</h3>
-                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                    <p class="price"><span>$2.90 </span>
-                                                        <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                             <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                        </button>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 d-flex ftco-animate">
-                                            <div class="services-wrap d-flex">
-                                                <a href="#" class="img order-lg-last" style="background-image: url(image/pizza-4.jpg);"></a>
-                                                <div class="text p-4">
-                                                    <h3>American Pizza</h3>
-                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
-                                                    <p class="price"><span>$2.90 </span>
-                                                        <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                             <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                        </button>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-4 d-flex ftco-animate">
-                                            <div class="services-wrap d-flex">
-                                                <a href="#" class="img order-lg-last" style="background-image: url(image/pizza-5.jpg);"></a>
-                                                <div class="text p-4">
-                                                    <h3>Tomatoe Pie</h3>
-                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                    <p class="price"><span>$2.90 </span>
-                                                        <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                             <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                        </button>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-4 d-flex ftco-animate">
-                                            <div class="services-wrap d-flex">
-                                                <a href="#" class="img order-lg-last" style="background-image: url(image/pizza-6.jpg);"></a>
-                                                <div class="text p-4">
-                                                    <h3>Margherita</h3>
-                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                    <p class="price"><span>$2.90 </span>
-                                                        <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                             <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                        </button>
-                                                    </p>
-                                                </div>
-                                            </div>
+                        <div class="container-wrap">
+                            <div class="row no-gutters d-flex">
+                                <div class="col-lg-4 d-flex ftco-animate">
+                                    <div class="services-wrap d-flex">
+                                        <a  class="img" style="background-image: url(image/pizza-1.jpg);"></a>
+                                        <div class="text p-4">
+                                            <h3>Italian Pizza</h3>
+                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
+                                            <p class="price"><span>$2.90 </span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="7" data-name="Italian Pizza" data-summary="Italian Pizza" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-1.jpg" style="color:black">Add
+                                                </button>
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
+                                <div class="col-lg-4 d-flex ftco-animate">
+                                    <div class="services-wrap d-flex">
+                                        <a  class="img" style="background-image: url(image/pizza-2.jpg);"></a>
+                                        <div class="text p-4">
+                                            <h3>Greek Pizza</h3>
+                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                            <p class="price"><span>$2.90 </span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="8" data-name="Greek Pizza" data-summary="Greek Pizza" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-2.jpg" style="color:black">Add
+                                                </button>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 d-flex ftco-animate">
+                                    <div class="services-wrap d-flex">
+                                        <a  class="img" style="background-image: url(image/pizza-3.jpg);"></a>
+                                        <div class="text p-4">
+                                            <h3>Caucasian Pizza</h3>
+                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                            <p class="price"><span>$2.90 </span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="9" data-name="Caucasian Pizza" data-summary="Caucasian Pizza" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-3.jpg" style="color:black">Add
+                                                </button>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-4 d-flex ftco-animate">
+                                    <div class="services-wrap d-flex">
+                                        <a  class="img order-lg-last" style="background-image: url(image/pizza-4.jpg);"></a>
+                                        <div class="text p-4">
+                                            <h3>American Pizza</h3>
+                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
+                                            <p class="price"><span>$2.90 </span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="10" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-4.jpg" style="color:black">Add
+                                                </button>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 d-flex ftco-animate">
+                                    <div class="services-wrap d-flex">
+                                        <a  class="img order-lg-last" style="background-image: url(image/pizza-5.jpg);"></a>
+                                        <div class="text p-4">
+                                            <h3>Tomatoe Pie</h3>
+                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                            <p class="price"><span>$2.90 </span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="11" data-name="Tomatoe Pie" data-summary="Tomatoe Pie" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-5.jpg" style="color:black">Add
+                                                </button>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 d-flex ftco-animate">
+                                    <div class="services-wrap d-flex">
+                                        <a  class="img order-lg-last" style="background-image: url(image/pizza-6.jpg);"></a>
+                                        <div class="text p-4">
+                                            <h3>Margherita</h3>
+                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                            <p class="price"><span>$2.90 </span>
+                                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                    data-id="12" data-name="Margherita" data-summary="Margherita" data-price="2.90" data-quantity="1"
+                                                    data-image="image/pizza-6.jpg" style="color:black">Add
+                                                </button>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                                             <!-- end body -->
 
                         </div>
@@ -543,13 +535,14 @@
 										<div class="row">
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
-													<a href="#" class="menu-img img mb-4" style="background-image: url(image/pizza-1.jpg);"></a>
+													<p class="menu-img img mb-4" style="background-image: url(image/pizza-1.jpg);"></p>
 													<div class="text">
-														<h3><a href="#">Itallian Pizza</a></h3>
+														<h3><p>Itallian Pizza</p></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -557,13 +550,14 @@
 											</div>
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
-													<a href="#" class="menu-img img mb-4" style="background-image: url(image/pizza-2.jpg);"></a>
+													<p  class="menu-img img mb-4" style="background-image: url(image/pizza-2.jpg);"></p>
 													<div class="text">
-														<h3><a href="#">Itallian Pizza</a></h3>
+														<h3><p >Itallian Pizza</p></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -571,13 +565,14 @@
 											</div>
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
-													<a href="#" class="menu-img img mb-4" style="background-image: url(image/pizza-3.jpg);"></a>
+													<p class="menu-img img mb-4" style="background-image: url(image/pizza-3.jpg);"></p>
 													<div class="text">
-														<h3><a href="#">Itallian Pizza</a></h3>
+														<h3><p>Itallian Pizza</p></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -586,7 +581,7 @@
 										</div>
 									</div>
 
-									<div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab">
+									<!-- <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab">
 										<div class="row">
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
@@ -595,8 +590,9 @@
 														<h3><a href="#">Lemonade Juice</a></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -609,8 +605,9 @@
 														<h3><a href="#">Pineapple Juice</a></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -618,32 +615,34 @@
 											</div>
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
-													<a href="#" class="menu-img img mb-4" style="background-image: url(image/drink-3.jpg);"></a>
+													<p  class="menu-img img mb-4" style="background-image: url(image/drink-3.jpg);"></p>
 													<div class="text">
-														<h3><a href="#">Soda Drinks</a></h3>
+														<h3><p>Soda Drinks</p></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
 												</div>
 											</div>
 										</div>
-									</div>
+									</div> -->
 
 									<div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab">
 										<div class="row">
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
-													<a href="#" class="menu-img img mb-4" style="background-image: url(image/burger-1.jpg);"></a>
+													<p class="menu-img img mb-4" style="background-image: url(image/burger-1.jpg);"></p>
 													<div class="text">
-														<h3><a href="#">Itallian Pizza</a></h3>
+														<h3><p>Itallian Pizza</p></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -651,13 +650,14 @@
 											</div>
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
-													<a href="#" class="menu-img img mb-4" style="background-image: url(image/burger-2.jpg);"></a>
+													<p  class="menu-img img mb-4" style="background-image: url(image/burger-2.jpg);"></p>
 													<div class="text">
-														<h3><a href="#">Itallian Pizza</a></h3>
+														<h3><p>Itallian Pizza</p></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -665,13 +665,14 @@
 											</div>
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
-													<a href="#" class="menu-img img mb-4" style="background-image: url(image/burger-3.jpg);"></a>
+													<p  class="menu-img img mb-4" style="background-image: url(image/burger-3.jpg);"></p>
 													<div class="text">
-														<h3><a href="#">Itallian Pizza</a></h3>
+														<h3><p>Itallian Pizza</p></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -684,13 +685,14 @@
 										<div class="row">
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
-													<a href="#" class="menu-img img mb-4" style="background-image: url(image/pasta-1.jpg);"></a>
+													<p class="menu-img img mb-4" style="background-image: url(image/pasta-1.jpg);"></p>
 													<div class="text">
-														<h3><a href="#">Itallian Pizza</a></h3>
+														<h3><p>Itallian Pizza</p></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -698,13 +700,14 @@
 											</div>
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
-													<a href="#" class="menu-img img mb-4" style="background-image: url(image/pasta-2.jpg);"></a>
+													<p  class="menu-img img mb-4" style="background-image: url(image/pasta-2.jpg);"></p>
 													<div class="text">
-														<h3><a href="#">Itallian Pizza</a></h3>
+														<h3><p >Itallian Pizza</p></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -712,13 +715,14 @@
 											</div>
 											<div class="col-md-4 text-center">
 												<div class="menu-wrap">
-													<a href="#" class="menu-img img mb-4" style="background-image: url(image/pasta-3.jpg);"></a>
+													<p  class="menu-img img mb-4" style="background-image: url(image/pasta-3.jpg);"></p>
 													<div class="text">
-														<h3><a href="#">Itallian Pizza</a></h3>
+														<h3><p>Itallian Pizza</p></h3>
 														<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                                         <p class="price"><span>$2.90 </span>
-                                                            <button type="button" class="ml-2 btn btn-warning btn-sm">
-                                                                 <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
+                                                            <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                                data-id="1" data-name="product 1" data-summary="summary 1" data-price="2.90" data-quantity="1"
+                                                                data-image="image/pizza-1.jpg" style="color:black">Add
                                                             </button>
                                                         </p>
 													</div>
@@ -1232,7 +1236,7 @@
 
 	<!-- Optional JavaScript -->
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
 	<script src="js/popper.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
@@ -1283,6 +1287,13 @@
 
 	<script src="js/custom.js"></script>
 	<script src="js/myjs.js"></script>
+
+
+ <script src="js/jquery-2.2.3.min.js"></script>
+  <script type='text/javascript' src="js/bootstrap.min.js"></script>
+  <script type='text/javascript' src="js/jquery.mycart.js"></script>
+  <script type="text/javascript" src="js/shopcart.js"></script>
+
 
 
 

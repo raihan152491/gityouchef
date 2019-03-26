@@ -10,140 +10,120 @@
 		<!-- Bootstrap CSS -->
 
 
-        <!-- <link rel="stylesheet" href="css/style.css"> -->
-        <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
-        <link rel="stylesheet" href="css/animate.css">
+        	<link rel="stylesheet" href="css/bootstrap-datepicker.css">
+        	<link rel="stylesheet" href="css/jquery.timepicker.css">
+        	<link rel="stylesheet" href="vendors/linericon/style.css">
+        	<link rel="stylesheet" href="css/font-awesome.min.css">
+        	<link rel="stylesheet" href="vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.css">
+        	<link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
+        	<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
+        	<link rel="stylesheet" href="css/uikit.min.css">
+        	<link rel="stylesheet" href="css/slick.css">
+        	<link rel="stylesheet" href="css/slick-theme.css">
+        	<link rel="shortcut icon" type="image/x-icon" href="image/favicon.png">
+        	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+        	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+        	<link href="https://fonts.googleapis.com/css?family=Nothing+You+Could+Do" rel="stylesheet">
+        	<link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+        	<link rel="stylesheet" href="css/animate.css">
+        	<link rel="stylesheet" href="css/owl.carousel.min.css">
+        	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+        	<link rel="stylesheet" href="css/magnific-popup.css">
+        	<link rel="stylesheet" href="css/aos.css">
+        	<link rel="stylesheet" href="css/ionicons.min.css">
+        	<link rel="stylesheet" href="css/bootstrap-datepicker.css">
+        	<link rel="stylesheet" href="css/jquery.timepicker.css">
+        	<link rel="stylesheet" href="css/flaticon.css">
+        	<link rel="stylesheet" href="css/icomoon.css">
 
-        <link rel="stylesheet" href="css/owl.carousel.min.css">
-        <link rel="stylesheet" href="css/owl.theme.default.min.css">
-        <link rel="stylesheet" href="css/magnific-popup.css">
+            <link rel="stylesheet" href="css/bootstrap.css">
 
-        <link rel="stylesheet" href="css/aos.css">
-        <link rel="stylesheet" href="css/ionicons.min.css">
-
-        <link rel="stylesheet" href="css/bootstrap-datepicker.css">
-        <link rel="stylesheet" href="css/jquery.timepicker.css">
-
-
-        <link rel="stylesheet" href="css/flaticon.css">
-        <link rel="stylesheet" href="css/icomoon.css">
-
-
-		<link rel="stylesheet" href="vendors/linericon/style.css">
-		<link rel="stylesheet" href="css/font-awesome.min.css">
-		<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-		<link rel="stylesheet" href="vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.css">
-		<link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
-		<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-		<link rel="stylesheet" href="css/uikit.min.css">
-		<link rel="stylesheet" href="css/slick.css">
-		<link rel="stylesheet" href="css/slick-theme.css">
-		<link rel="shortcut icon" type="image/x-icon" href="image/favicon.png">
-		<!-- main css -->
-		<link rel="stylesheet" href="css/bootstrap.css">
-		<link rel="stylesheet" href="css/style1.css">
-
-		<link rel="stylesheet" href="css/pizza.css">
-		<link rel="stylesheet" href="css/style.css">
-		<link rel="stylesheet" href="css/responsive.css">
-		<link rel="stylesheet" href="css/mycss.css">
-        <link rel="stylesheet" href="css/order.css">
-
-<link rel="stylesheet" href="css/cart.css">
+        	<link rel="stylesheet" href="css/pizza.css">
+        	<link rel="stylesheet" href="css/order.css">
+            <link rel="stylesheet" href="css/mycss.css">
+            <link rel="stylesheet" href="css/style1.css">
+            <link rel="stylesheet" href="css/style.css">
+            <link rel="stylesheet" href="css/responsive.css">
 
 
 
 
 
-	</head>
-    <body  >
 
-        <!--================Header Area =================-->
-        <header class="header_area" >
-            <!-- <div class="container"> -->
-			<nav class="navbar navbar-expand-lg navbar-light" style="background-image: url(image/.jpg);">
-				<!-- Brand and toggle get grouped for better mobile display -->
-				<a class="navbar-brand logo_h" href="index.php" ><img src="logo.png" alt="">YOU CHEF</a>
+        </head>
+        <body  >
 
-                <!-- <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
-                <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
-                 -->
-
-
-
-
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+        	<!--================Header Area =================-->
+        	<header class="header_area" >
+        		<!-- <div class="container"> -->
+        			<nav class="navbar navbar-expand-lg navbar-light" style="background-image: url(image/.jpg);">
+        				<!-- Brand and toggle get grouped for better mobile display -->
+        				<a class="navbar-brand logo_h" href="index.php" ><img src="logo.png" alt="">YOU CHEF</a>
+        				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        					<span class="icon-bar"></span>
+        					<span class="icon-bar"></span>
+        					<span class="icon-bar"></span>
+        				</button>
 
 
-				
-					
-                 <div class="product_list_header">
-                    <form action="#" method="post" class="last">
-                        <fieldset>
-                            <input type="hidden" name="cmd" value="_cart" />
-                            <input type="hidden" name="display" value="1" />
-                            <button type="submit" class="btn btn-warning btn-sm">
-                                 <span class="price" style="color:black">View Your Cart <i class="fa fa-shopping-cart"></i></span>
-                            </button>
-                        </fieldset>
-                    </form>
-                </div>
-				
-					<ul class="nav navbar-nav menu_nav ml-auto">
+        				<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+
+                            <!-- <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+                            <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+                            <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p> -->
+
+                            <div style="float: right; cursor: pointer;">
+                               <span class=" my-cart-icon fa fa-shopping-cart" style="color:black">
+                                   <span class="badge badge-notify my-cart-badge"></span>
+                               </span>
+                             </div>
+
+        					<ul class="nav navbar-nav menu_nav ml-auto">
+        						<li class="active nav-item "><a class="nav-link" href="index.php">Home</a></li>
+
+        						<li class="nav-item submenu dropdown">
+        							<span   class="active nav-link dropdown-toggle" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false" >Order</span>
+        							<ul class="dropdown-menu">
+        								<li class="nav-item"><a class="nav-link" href="readymeal.php">Ready Meals</a></li>
+        								<li class="nav-item"><a class="nav-link" href="foodrecipe.php">Food Recipe</a></li>
+        								<li class="nav-item"><a class="nav-link" href="ingredient.php">Ingredients</a></li>
+        								<li class="nav-item"><a class="nav-link" href="ingredient.php">Restaurent</a></li>
+        							</ul>
+        						</li>
+        						<li class="nav-item submenu dropdown">
+        							<span  class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Courses</span>
+        							<ul class="dropdown-menu">
+        								<li class="nav-item"><a class="nav-link" href="">couese 1</a></li>
+        								<li class="nav-item"><a class="nav-link" href="#">couese 2</a></li>
+        								<li class="nav-item"><a class="nav-link" href="#">couese 3</a></li>
+        								<li class="nav-item"><a class="nav-link" href="#">couese 4</a></li>
+        							</ul>
+        						</li>
+
+        						<li class="nav-item"><a class="nav-link" href="contact.php" >Contact</a></li>
+
+        						<!-- Search form -->
+
+        						<li class="nav-item submenu dropdown">
+        							<span class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >Log In / Sign up</span>
+        							<ul class="dropdown-menu">
+        								<li class="nav-item"><a class="nav-link" href="blog.php" data-toggle="modal" data-target="#log_modal">Log In</a></li>
+        								<li class="nav-item"><a class="nav-link" href="foodreview.php" data-toggle="modal" data-target="#sign_modal">Sign up</a></li>
+        							</ul>
+        						</li>
 
 
-						<li class="nav-item active"><a class="nav-link" href="index.php">Home</a></li>
+        					</ul>
+        				</div>
 
-						<li class="nav-item submenu dropdown">
-							<span   class="nav-link dropdown-toggle" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false" >Order</span>
-							<ul class="dropdown-menu">
-								<!-- <li class="nav-item"><a class="nav-link" href="order.php" >Order</a></li> -->
-								<li class="nav-item"><a class="nav-link" href="readymeal.php">Ready Meals</a></li>
-								<li class="nav-item"><a class="nav-link" href="foodrecipe.php">Food Recipe</a></li>
-								<li class="nav-item"><a class="nav-link" href="ingredient.php">Ingredients</a></li>
-                                <li class="nav-item"><a class="nav-link" href="ingredient.php">Restaurent</a></li>
-							</ul>
-						</li>
-						<li class="nav-item submenu dropdown">
-							<span  class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Courses</span>
-							<ul class="dropdown-menu">
-								<li class="nav-item"><a class="nav-link" href="">couese 1</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">couese 2</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">couese 3</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">couese 4</a></li>
-							</ul>
-						</li>
+        			</nav>
+        			<!-- </div> -->
 
-                        <li class="nav-item"><a class="nav-link" href="contact.php" >Contact</a></li>
+        		</header>
+        		<!--================Header Area =================-->
 
-                        <!-- Search form -->
+        		<!-- ready meal area -->
 
-						<li class="nav-item submenu dropdown">
-							<span class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >Log In / Sign up</span>
-							<ul class="dropdown-menu">
-								<li class="nav-item"><a class="nav-link" href="blog.php" data-toggle="modal" data-target="#log_modal">Log In</a></li>
-								<li class="nav-item"><a class="nav-link" href="foodreview.php" data-toggle="modal" data-target="#sign_modal">Sign up</a></li>
-							</ul>
-						</li>
-
-
-						<!-- <li class="nav-item"><a class="nav-link" href="#">About us</a></li> -->
-
-					</ul>
-				</div>
-
-
-			</nav>
-            <!-- </div> -->
-
-		</header>
-        <!--================Header Area =================-->
 
         <!--================Banner Area =================-->
         <section class="home-slider owl-carousel img" style="background-image: url(image/banner/bg_1.jpg);">
@@ -161,27 +141,13 @@
 							<span class="subheading">Delicious</span>
 							<h1 class="mb-4">Italian Cuizine</h1>
 							<p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-                            <p class="price">Price : $2.90</p>
-                            <div class="snipcart-details top_brand_home_details">
-                                <form action="checkout.html" method="post">
-                                    <fieldset>
-                                        <input type="hidden" name="cmd" value="_cart" />
-                                        <input type="hidden" name="add" value="1" />
-                                        <input type="hidden" name="business" value=" " />
-                                        <input type="hidden" name="item_name" value="Italian Cuizine" />
-                                        <input type="hidden" name="amount" value="7.99" />
-                                        <input type="hidden" name="discount_amount" value="1.00" />
-                                        <input type="hidden" name="currency_code" value="BDT" />
-                                        <input type="hidden" name="return" value=" " />
-                                        <input type="hidden" name="cancel_return" value=" " />
-                                        <button type="submit" class="btn btn-warning btn-sm">
-                                             <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add to Cart</span>
-                                        </button>
-                                    </fieldset>
+                            <p class="price"><span>$2.90 </span>
+                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                    data-id="1" data-name="Italian Pizza" data-summary="Italian Cuizine" data-price="2.90" data-quantity="1"
+                                    data-image="image/banner/bg_1.png" style="color:black">Add
+                                </button>
 
-                                </form>
-
-                            </div>
+                            </p>
 
 
 						</div>
@@ -206,27 +172,13 @@
 							<h1 class="mb-4">Italian Pizza</h1>
 							<p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
 							<!-- <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3" data-toggle="modal" data-target="#ordermodal">Order Now</a></p> -->
-                            <p class="price">Price : $2.90</p>
-                            <div class="snipcart-details top_brand_home_details">
-                                <form action="checkout.html" method="post">
-                                    <fieldset>
-                                        <input type="hidden" name="cmd" value="_cart" />
-                                        <input type="hidden" name="add" value="1" />
-                                        <input type="hidden" name="business" value=" " />
-                                        <input type="hidden" name="item_name" value="Italian Pizza" />
-                                        <input type="hidden" name="amount" value="7.99" />
-                                        <input type="hidden" name="discount_amount" value="1.00" />
-                                        <input type="hidden" name="currency_code" value="BDT" />
-                                        <input type="hidden" name="return" value=" " />
-                                        <input type="hidden" name="cancel_return" value=" " />
-                                        <button type="submit" class="btn btn-warning btn-sm">
-                                             <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add to Cart</span>
-                                        </button>
-                                    </fieldset>
+                            <p class="price"><span>$2.90 </span>
+                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                    data-id="2" data-name="Italian Pizza" data-summary="Italian Pizza" data-price="2.90" data-quantity="1"
+                                    data-image="image/banner/bg_2.png" style="color:black">Add
+                                </button>
 
-                                </form>
-
-                            </div>
+                            </p>
 
 						</div>
 						<div class="col-md-6 ftco-animate">
@@ -246,27 +198,13 @@
 							<span class="subheading">Welcome</span>
 							<h1 class="mb-4">We cooked your desired Pizza Recipe</h1>
 							<p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-                            <p class="price">Price : $2.90</p>
-                            <div class="snipcart-details top_brand_home_details">
-                                <form action="checkout.html" method="post">
-                                    <fieldset>
-                                        <input type="hidden" name="cmd" value="_cart" />
-                                        <input type="hidden" name="add" value="1" />
-                                        <input type="hidden" name="business" value=" " />
-                                        <input type="hidden" name="item_name" value="Italian Cuizine" />
-                                        <input type="hidden" name="amount" value="7.99" />
-                                        <input type="hidden" name="discount_amount" value="1.00" />
-                                        <input type="hidden" name="currency_code" value="BDT" />
-                                        <input type="hidden" name="return" value=" " />
-                                        <input type="hidden" name="cancel_return" value=" " />
-                                        <button type="submit" class="btn btn-warning btn-sm">
-                                             <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add to Cart</span>
-                                        </button>
-                                    </fieldset>
+                            <p class="price"><span>$2.90 </span>
+                                <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                    data-id="3" data-name="American Pizza" data-summary="American Pizza" data-price="2.90" data-quantity="1"
+                                    data-image="image/banner/bg_1.png" style="color:black">Add
+                                </button>
 
-                                </form>
-
-                            </div>
+                            </p>
 
 						</div>
                         <div class="col-md-6 ftco-animate">
@@ -345,12 +283,11 @@
         <section class="accomodation_area " style="background: url(image/bg_4.jpg)no-repeat fixed;">
 
 
-            <!-- Food  section-->
+            <!-- ###################################### ready mael ################################### -->
 
             <section id="Food" class="Fd section_gap" style="background: url(image/bg_4.jpg)no-repeat fixed;">
 
 
-                <!-- <div class="container" style="width:100%" > -->
 				<nav class="navbar navbar-expand-lg " style="background: url(image/bg_4.jpg)no-repeat fixed;"  >
 					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 						<ul class="nav navbar-nav menu_nav ml-auto" >
@@ -367,10 +304,9 @@
 						</ul>
 					</div>
 				</nav>
-                <!-- </div> -->
 
+<!-- ###################################### ready mael ################################### -->
 
-                <!-- <div class="container"> -->
 				<div class="section_title text-center">
 					<h2 class="" style="text-color:white">Ready Meals</h2>
 					<p>Your diet is a bank account. Good food choices are good investments. </p>
@@ -382,198 +318,106 @@
                             <div class="media-body">
                                 <!-- body -->
 
-                            <div class="container-wrap">
-                                <div class="row no-gutters d-flex">
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img" style="background-image: url(image/pizza-1.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Italian Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Italian Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
+                                <div class="container-wrap">
+                                    <div class="row no-gutters d-flex">
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img" style="background-image: url(image/pizza-1.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Italian Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="1" data-name="Italian Pizza" data-summary="Italian Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-1.jpg" style="color:black">Add
+                                                        </button>
 
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img" style="background-image: url(image/pizza-2.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Greek Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Greek Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img" style="background-image: url(image/pizza-2.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Greek Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="2" data-name="Greek Pizza" data-summary="Greek Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-2.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img" style="background-image: url(image/pizza-3.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Caucasian Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Caucasian Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img" style="background-image: url(image/pizza-3.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Caucasian Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="3" data-name="Caucasian Pizza" data-summary="Caucasian Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-3.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img order-lg-last" style="background-image: url(image/pizza-4.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>American Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="American Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img order-lg-last" style="background-image: url(image/pizza-4.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>American Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="4" data-name="American Pizza" data-summary="American Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-4.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img order-lg-last" style="background-image: url(image/pizza-5.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Tomatoe Pie</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Tomatoe Pie" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a class="img order-lg-last" style="background-image: url(image/pizza-5.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Tomatoe Pie</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="5" data-name="Tomatoe Pie" data-summary="Tomatoe Pie" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-5.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img order-lg-last" style="background-image: url(image/pizza-6.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Margherita</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Margherita" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a class="img order-lg-last" style="background-image: url(image/pizza-6.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Margherita</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="6" data-name="Margherita" data-summary="Margherita" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-6.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+
+
                                         <!-- end body -->
+
 							</div>
 						</div>
 					<?php } ?>
@@ -584,7 +428,8 @@
 			</section>
             <!-- food section end -->
 
-            <!-- Recie  section-->
+            <!--############################  Recipe  section ################################# -->
+
             <!-- back pic -->
 			<section id="home-getstarted" class="text-center text-light" style="background: url(image/background/facilites_bg1.jpg)no-repeat fixed;">
 
@@ -640,198 +485,106 @@
                             <div class="media-body">
                                 <!-- body -->
 
-                            <div class="container-wrap">
-                                <div class="row no-gutters d-flex">
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img" style="background-image: url(image/pizza-1.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Italian Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Italian Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
+                                <div class="container-wrap">
+                                    <div class="row no-gutters d-flex">
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img" style="background-image: url(image/pizza-1.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Italian Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="1" data-name="Italian Pizza" data-summary="Italian Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-1.jpg" style="color:black">Add
+                                                        </button>
 
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img" style="background-image: url(image/pizza-2.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Greek Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Greek Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img" style="background-image: url(image/pizza-2.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Greek Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="2" data-name="Greek Pizza" data-summary="Greek Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-2.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img" style="background-image: url(image/pizza-3.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Caucasian Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Caucasian Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img" style="background-image: url(image/pizza-3.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Caucasian Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="3" data-name="Caucasian Pizza" data-summary="Caucasian Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-3.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img order-lg-last" style="background-image: url(image/pizza-4.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>American Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="American Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img order-lg-last" style="background-image: url(image/pizza-4.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>American Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="4" data-name="American Pizza" data-summary="American Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-4.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img order-lg-last" style="background-image: url(image/pizza-5.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Tomatoe Pie</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Tomatoe Pie" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a class="img order-lg-last" style="background-image: url(image/pizza-5.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Tomatoe Pie</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="5" data-name="Tomatoe Pie" data-summary="Tomatoe Pie" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-5.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img order-lg-last" style="background-image: url(image/pizza-6.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Margherita</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Margherita" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a class="img order-lg-last" style="background-image: url(image/pizza-6.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Margherita</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="6" data-name="Margherita" data-summary="Margherita" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-6.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+
+
                                         <!-- end body -->
+
 							</div>
 						</div>
 					<?php } ?>
@@ -843,7 +596,8 @@
 			</section>
             <!-- Recipe setion end -->
 
-            <!-- Ingrident  section-->
+            <!--############################  Ingredients  section ################################# -->
+
 
 			<!-- back pic -->
 			<section id="home-getstarted2" class="text-center text-light" style="background: url(image/background/facilites_bg1.jpg)no-repeat fixed;">
@@ -898,198 +652,106 @@
                             <div class="media-body">
                                 <!-- body -->
 
-                            <div class="container-wrap">
-                                <div class="row no-gutters d-flex">
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img" style="background-image: url(image/pizza-1.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Italian Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Italian Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
+                                <div class="container-wrap">
+                                    <div class="row no-gutters d-flex">
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img" style="background-image: url(image/pizza-1.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Italian Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="1" data-name="Italian Pizza" data-summary="Italian Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-1.jpg" style="color:black">Add
+                                                        </button>
 
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img" style="background-image: url(image/pizza-2.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Greek Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Greek Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img" style="background-image: url(image/pizza-2.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Greek Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="2" data-name="Greek Pizza" data-summary="Greek Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-2.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img" style="background-image: url(image/pizza-3.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Caucasian Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Caucasian Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img" style="background-image: url(image/pizza-3.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Caucasian Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="3" data-name="Caucasian Pizza" data-summary="Caucasian Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-3.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img order-lg-last" style="background-image: url(image/pizza-4.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>American Pizza</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="American Pizza" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a  class="img order-lg-last" style="background-image: url(image/pizza-4.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>American Pizza</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="4" data-name="American Pizza" data-summary="American Pizza" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-4.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img order-lg-last" style="background-image: url(image/pizza-5.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Tomatoe Pie</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Tomatoe Pie" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a class="img order-lg-last" style="background-image: url(image/pizza-5.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Tomatoe Pie</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="5" data-name="Tomatoe Pie" data-summary="Tomatoe Pie" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-5.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-4 d-flex ftco-animate">
-                                        <div class="services-wrap d-flex">
-                                            <p href="#" class="img order-lg-last" style="background-image: url(image/pizza-6.jpg);"></p>
-                                            <div class="text p-4">
-                                                <h3>Margherita</h3>
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                                <p class="price"><span>$2.90 </span>
-                                                    <div class="snipcart-details top_brand_home_details">
-                                                        <form action="checkout.html" method="post">
-                                                            <fieldset>
-                                                                <input type="hidden" name="cmd" value="_cart" />
-                                                                <input type="hidden" name="add" value="1" />
-                                                                <input type="hidden" name="business" value=" " />
-                                                                <input type="hidden" name="item_name" value="Margherita" />
-                                                                <input type="hidden" name="amount" value="7.99" />
-                                                                <input type="hidden" name="discount_amount" value="1.00" />
-                                                                <input type="hidden" name="currency_code" value="BDT" />
-                                                                <input type="hidden" name="return" value=" " />
-                                                                <input type="hidden" name="cancel_return" value=" " />
-                                                                <button type="submit" class="btn btn-warning btn-sm">
-                                                                     <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i>Add</span>
-                                                                </button>
-                                                            </fieldset>
-
-                                                        </form>
-
-                                                    </div>
-                                                </p>
+                                        <div class="col-lg-4 d-flex ftco-animate">
+                                            <div class="services-wrap d-flex">
+                                                <a class="img order-lg-last" style="background-image: url(image/pizza-6.jpg);"></a>
+                                                <div class="text p-4">
+                                                    <h3>Margherita</h3>
+                                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                                                    <p class="price"><span>$2.90 </span>
+                                                        <button class="ml-2 btn btn-warning btn-sm my-cart-btn fa fa-shopping-cart"
+                                                            data-id="6" data-name="Margherita" data-summary="Margherita" data-price="2.90" data-quantity="1"
+                                                            data-image="image/pizza-6.jpg" style="color:black">Add
+                                                        </button>
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+
+
                                         <!-- end body -->
+
 							</div>
 						</div>
 					<?php } ?>
@@ -1102,7 +764,7 @@
             <!-- Ingrident setion end -->
 
 
-            <!-- Restaurant  section-->
+            <!--############################  Restaurant  section ################################# -->
             <!-- back pic -->
 			<section id="home-getstarted1" class="text-center text-light" style="background: url(image/background/facilites_bg1.jpg)no-repeat fixed;" >
 
@@ -1217,7 +879,7 @@
 
 
 
-   
+
         <!--================ Facilities Area  =================-->
         <section class="facilities_area section_gap" style="background: url(image/background/facilites_bg1.jpg)no-repeat fixed; border:none">
             <div class="overlay bg-parallax" data-stellar-ratio="0.8" data-stellar-vertical-offset="0" data-background="">
@@ -1645,62 +1307,66 @@
 	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 
+    	<!-- Optional JavaScript -->
+    	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="js/jquery-3.2.1.min.js"></script>
+    	<script src="js/popper.js"></script>
+    	<script src="js/bootstrap.min.js"></script>
+    	<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+    	<script src="js/jquery.ajaxchimp.min.js"></script>
+    	<script src="js/mail-script.js"></script>
+    	<script src="vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.js"></script>
+    	<script src="vendors/nice-select/js/jquery.nice-select.js"></script>
+    	<script src="js/mail-script.js"></script>
+    	<script src="js/stellar.js"></script>
+    	<script src="vendors/lightbox/simpleLightbox.min.js"></script>
+    	<!-- part -->
+    	<script src="js/jquery.min.js"></script>
+    	<script src="js/jquery-migrate-3.0.1.min.js"></script>
+    	<script src="js/popper.min.js"></script>
+    	<script src="js/jquery.easing.1.3.js"></script>
+    	<script src="js/jquery.waypoints.min.js"></script>
+    	<script src="js/jquery.stellar.min.js"></script>
+    	<script src="js/owl.carousel.min.js"></script>
+    	<script src="js/jquery.magnific-popup.min.js"></script>
+    	<script src="js/aos.js"></script>
+    	<script src="js/jquery.animateNumber.min.js"></script>
+    	<script src="js/bootstrap-datepicker.js"></script>
+    	<script src="js/jquery.timepicker.min.js"></script>
+    	<script src="js/scrollax.min.js"></script>
+    	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+    	<script src="js/google-map.js"></script>
 
-	<!-- Optional JavaScript -->
-	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="js/jquery-3.2.1.min.js"></script>
-	<script src="js/popper.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="js/mail-script.js"></script>
-	<script src="vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.js"></script>
-	<script src="vendors/nice-select/js/jquery.nice-select.js"></script>
-	<script src="js/mail-script.js"></script>
-	<script src="js/stellar.js"></script>
-	<script src="vendors/lightbox/simpleLightbox.min.js"></script>
-	<!-- part -->
-	<script src="js/jquery.min.js"></script>
-	<script src="js/jquery-migrate-3.0.1.min.js"></script>
-	<script src="js/popper.min.js"></script>
-	<script src="js/jquery.easing.1.3.js"></script>
-	<script src="js/jquery.waypoints.min.js"></script>
-	<script src="js/jquery.stellar.min.js"></script>
-	<script src="js/owl.carousel.min.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/aos.js"></script>
-	<script src="js/jquery.animateNumber.min.js"></script>
-	<script src="js/bootstrap-datepicker.js"></script>
-	<script src="js/jquery.timepicker.min.js"></script>
-	<script src="js/scrollax.min.js"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-	<script src="js/google-map.js"></script>
-	<script src="js/main.js"></script>
+    	<script src="js/jquery.min.js"></script>
+    	<script src="js/jquery-migrate-3.0.1.min.js"></script>
+    	<script src="js/popper.min.js"></script>
+    	<script src="js/bootstrap.min.js"></script>
+    	<script src="js/jquery.easing.1.3.js"></script>
+    	<script src="js/jquery.waypoints.min.js"></script>
+    	<script src="js/jquery.stellar.min.js"></script>
+    	<script src="js/owl.carousel.min.js"></script>
+    	<script src="js/jquery.magnific-popup.min.js"></script>
+    	<script src="js/aos.js"></script>
+    	<script src="js/jquery.animateNumber.min.js"></script>
+    	<script src="js/bootstrap-datepicker.js"></script>
+    	<script src="js/jquery.timepicker.min.js"></script>
+    	<script src="js/scrollax.min.js"></script>
+    	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+    	<script src="js/google-map.js"></script>
+    	<script src="js/main1.js"></script>
 
-	<script src="js/custom.js"></script>
-	<script src="js/myjs.js"></script>
-    <script src="js/minicart.js"></script>
-      <script>
-    		paypal.minicart.render();
 
-    		paypal.minicart.cart.on('checkout', function (evt) {
-    			var items = this.items(),
-    				len = items.length,
-    				total = 0,
-    				i;
+    	<script src="js/main.js"></script>
 
-    			// Count the number of each item in the cart
-    			for (i = 0; i < len; i++) {
-    				total += items[i].get('quantity');
-    			}
+    	<script src="js/custom.js"></script>
+    	<script src="js/myjs.js"></script>
 
-    			if (total < 1) {
-    				alert('The minimum order quantity is 3. Please add more to your shopping cart before checking out');
-    				evt.preventDefault();
-    			}
-    		});
 
-    </script>
+     <script src="js/jquery-2.2.3.min.js"></script>
+      <script type='text/javascript' src="js/bootstrap.min.js"></script>
+      <script type='text/javascript' src="js/jquery.mycart.js"></script>
+      <script type="text/javascript" src="js/shopcart.js"></script>
+
 
 
 </body>
